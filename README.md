@@ -1,5 +1,5 @@
 # Lync User Manager
-=================
+
 The Lync Control panel is great for general user management BUT..
 it has limitations. Some of these I come across regularly are as follows:-
 
